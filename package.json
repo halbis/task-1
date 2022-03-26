@@ -1,0 +1,16 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "Node js CLI app that shows the details and records of Petrolium products.",
+  "main": "report.js",
+  "scripts": {
+    "start": "node report.js"
+  },
+  "keywords": [],
+  "author": "Bishal Bista",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.0.2",
+    "winston": "^3.6.0"
+  }
+}
