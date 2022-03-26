@@ -1,10 +1,14 @@
+# Problem 1
 
-# Nodejs CLI app.
+## Simple Nodejs CLI app for showing record of Petroleum Product.
 
-## To start
- ### npm install
- ### npm start
+### To start
+ - Run `npm install` and `npm start`
  
-## To start with docker
-  ## sudo docker build -t assignment .
-  ## sudo docker run -it --name task1 assignment
+### To start with docker
+  - Run `docker build -t assignment .`
+  - Run `docker run -it --name task1 assignment`
+
+
+
+#### All logs are present inside all-log.log of logs folder.
