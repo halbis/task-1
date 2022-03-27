@@ -9,7 +9,7 @@ const db = new sqlite3.Database(
       logger.error(err.message, err.stack);
       return;
     }
-    logger.info("database connected..");
+    console.info("database connected..");
   }
 );
 
